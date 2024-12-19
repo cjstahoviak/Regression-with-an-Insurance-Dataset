@@ -18,7 +18,7 @@ etc.
 ## Setup
 This repo uses a Conda environment configured in `environment.yml`. Here are the steps to set these up properly from this repos home folder:
 1. Create an new Conda environment `conda env create -f environment.yml`
-2. Activate the environment `conda activate Exploring-Mental-Health-Data`
+2. Activate the environment `conda activate Regression-with-an-Insurance-Dataset`
 
 If changes are made to `environment.yml` then update by running `conda env update --file environment.yml --prune`
 

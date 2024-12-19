@@ -1,4 +1,4 @@
-name: Exploring-Mental-Health-Data
+name: Regression-with-an-Insurance-Dataset
 channels:
   - defaults
   - conda-forge
