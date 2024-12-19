@@ -1,5 +1,5 @@
 """
-Top-level script for data exploration and training my model.
+Carl's Exploratory Data Analysis.
 
 Here's the strategy:
 
